@@ -1,0 +1,7 @@
+{
+  "port": 8080,
+  "storage_path": "data/",
+  "banned_urls": [
+    "https://imgv3.fotor.com/images/blog-cover-image/Image-Upscaler-2.jpg"
+  ]
+}
