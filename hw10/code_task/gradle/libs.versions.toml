@@ -1,0 +1,12 @@
+[versions]
+kotlinxCliVersion="0.3.5"
+kotlinxSerializationVersion="1.8.10"
+mordantVersion="2.0.0-beta13"
+
+[libraries]
+kotlinxCli = { module = "org.jetbrains.kotlinx:kotlinx-cli",  version.ref = "kotlinxCliVersion" }
+kotlinxSerialization = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version = "1.5.0" }
+mordant = {module = "com.github.ajalt.mordant:mordant", version.ref = "mordantVersion"}
+
+[plugins]
+kotlinxSerialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlinxSerializationVersion" }
