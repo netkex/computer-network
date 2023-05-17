@@ -1,0 +1,920 @@
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Path to 42.162.54.248. Next hop: 157.105.66.180. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Path to 42.162.54.248. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 157.105.66.180. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Path to 199.239.33.66. Next hop: 122.136.243.149. Number of hops: 3
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Path to 42.162.54.248. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Path to 199.239.33.66. Next hop: 157.105.66.180. Number of hops: 3
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Path to 199.239.33.66. Next hop: 122.136.243.149. Number of hops: 3
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Path to 42.162.54.248. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 199.239.33.66. Next hop: 122.136.243.149. Number of hops: 3
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[DefaultDispatcher-worker-4] INFO  Router  - [Router 122.136.243.149] Remove edge to 198.71.43.61 due to timeout
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[DefaultDispatcher-worker-1] INFO  Router  - [Router 157.105.66.180] Remove edge to 198.71.43.61 due to timeout
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 4
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 5
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 5
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 5
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 6
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 7
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 7
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 7
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Path to 42.162.54.248. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Path to 199.239.33.66. Next hop: 122.136.243.149. Number of hops: 3
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Path to 42.162.54.248. Next hop: 157.105.66.180. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 198.71.43.61] Path to 42.162.54.248. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 198.71.43.61. Number of hops: 2
+[main] INFO  Router  - [Router 198.71.43.61] Was stopped by user
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[DefaultDispatcher-worker-5] INFO  Router  - [Router 157.105.66.180] Remove edge to 198.71.43.61 due to timeout
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[DefaultDispatcher-worker-3] INFO  Router  - [Router 122.136.243.149] Remove edge to 198.71.43.61 due to timeout
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 4
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 5
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 5
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 5
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[main] INFO  Router  - [Router 198.71.43.61] Was stopped by user
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 198.71.43.61. Number of hops: 1
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 157.105.66.180. Next hop: 157.105.66.180. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 199.239.33.66. Next hop: 199.239.33.66. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 42.162.54.248. Next hop: 42.162.54.248. Number of hops: 1
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 122.136.243.149. Next hop: 122.136.243.149. Number of hops: 1
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Path to 42.162.54.248. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 157.105.66.180. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 199.239.33.66. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 198.71.43.61. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Path to 199.239.33.66. Next hop: 122.136.243.149. Number of hops: 3
+[pool-1-thread-4] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 198.71.43.61] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[main] INFO  Router  - [Router 198.71.43.61] Was stopped by user
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 198.71.43.61
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 198.71.43.61
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[DefaultDispatcher-worker-4] INFO  Router  - [Router 157.105.66.180] Remove edge to 198.71.43.61 due to timeout
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[DefaultDispatcher-worker-3] INFO  Router  - [Router 122.136.243.149] Remove edge to 198.71.43.61 due to timeout
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 122.136.243.149. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 157.105.66.180. Next hop: 42.162.54.248. Number of hops: 2
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 3
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 157.105.66.180. Number of hops: 2
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 4
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 5
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 5
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 5
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 157.105.66.180. Number of hops: 4
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 6
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 7
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 7
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 7
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 8
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 9
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 9
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 9
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 157.105.66.180. Number of hops: 8
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 10
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 11
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 11
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 11
+[pool-1-thread-5] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-4] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 12
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 13
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 13
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 13
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-4] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 157.105.66.180. Number of hops: 12
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 42.162.54.248] Path to 198.71.43.61. Next hop: 122.136.243.149. Number of hops: 14
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 157.105.66.180] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 15
+[pool-1-thread-5] INFO  Router  - [Router 199.239.33.66] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 15
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 122.136.243.149] Path to 198.71.43.61. Next hop: 42.162.54.248. Number of hops: 15
+[pool-1-thread-4] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
+[pool-1-thread-2] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-1] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-3] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 122.136.243.149
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 157.105.66.180
+[pool-1-thread-1] INFO  Router  - [Router 199.239.33.66] Update from neighbour: 42.162.54.248
+[pool-1-thread-5] INFO  Router  - [Router 122.136.243.149] Update from neighbour: 42.162.54.248
+[pool-1-thread-4] INFO  Router  - [Router 157.105.66.180] Update from neighbour: 42.162.54.248
+[pool-1-thread-2] INFO  Router  - [Router 42.162.54.248] Update from neighbour: 199.239.33.66
